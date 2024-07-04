@@ -5,7 +5,7 @@ import { IoMdPerson } from "react-icons/io";
 
 const Navbar = () => {
   return (
-    <div className="flex justify-between gap-4 text-[#FFFFFF] p-2 ">
+    <div className="flex justify-between gap-4 text-[#FFFFFF] p-2">
       <div className="flex gap-4 items-center">
         <SiGoogledisplayandvideo360 className="size-8 " />
         <h2 className="mr-3 font-bold text-3xl">Holaa</h2>
